@@ -8,8 +8,8 @@ I enjoy building responsive, clean web pages using HTML, CSS & JS.
 
 📫 Connect with me:
 - GitHub: https://github.com/Hariom7201
-- LinkedIn: (place your link here)
-- Portfolio: (if you create a website)
+- LinkedIn: https://www.linkedin.com/in/hariom-hatwate-260813263/
+- Portfolio: https://hariomportfolio.niat.tech/
 
 ## Tech I’m Learning
 HTML | CSS | JavaScript | React
