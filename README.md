@@ -12,4 +12,4 @@ I enjoy building responsive, clean web pages using HTML, CSS & JS.
 - Portfolio: https://hariomportfolio.niat.tech/
 
 ## Tech I’m Learning
-HTML | CSS | JavaScript | React
+HTML | CSS | JavaScript | React | Python
