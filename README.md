@@ -1,7 +1,7 @@
 # Hi, I'm Hariom 👋
 
 I’m a 1st-year CSE student passionate about frontend development.  
-I enjoy building responsive, clean web pages using HTML, CSS & JS.
+I enjoy building responsive, clean web pages using HTML, Python, CSS & JS.
 
 🔭 I’m currently working on learning React and building real projects.  
 🌱 I’m open to internship opportunities and learning new UI/UX skills.
