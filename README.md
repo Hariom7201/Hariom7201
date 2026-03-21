@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Hariom Hatvate
+# 👋 Hi, I'm Hariom Hatwate
 
 🎓 BTech Student | 💻 Full Stack Developer | 🚀 AI & Hackathon Enthusiast
 
@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-![Hariom's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+!
 
 ---
 
