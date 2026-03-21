@@ -7,7 +7,7 @@
 ## 🧠 About Me
 
 * 🎯 Currently building real-world projects using **React, Node.js, AI tools**
-* 🏆 Active participant in **Hackathons (Murf AI, HackXtreme, ET GenAI)**
+* 🏆 Active participant in **Hackathons (Murf AI, HackXtreme, ET GenAI, India Innovates 2026 Finalist)**
 * 📈 Focused on becoming a **job-ready software engineer**
 * 💡 Interested in **AI, automation, and scalable systems**
 
