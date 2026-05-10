@@ -16,7 +16,7 @@
 ## ⚙️ Tech Stack
 
 * 💻 Frontend: React.js, HTML, CSS, JavaScript
-* 🔧 Backend: Node.js, Express.js
+* 🔧 Backend: Node.js, Express.js, Python
 * 🗄️ Database: MongoDB, JSON
 * 🤖 AI Tools: OpenAI APIs, Murf AI, Prompt Engineering
 * 🛠️ Tools: Git, GitHub, VS Code
