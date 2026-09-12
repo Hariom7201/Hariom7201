@@ -56,6 +56,7 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/hariom-hatwate-260813263/ 
+* LinkedIn: https://www.linkedin.com/in/hariom-hatwate-260813263/
+* Twitter: https://x.com/HariHatwate 
 * Email: [hariomhatvate@gmail.com](mailto:hariomhatvate@gmail.com)
 * Portfolio: https://hariomportfolio.niat.tech/
