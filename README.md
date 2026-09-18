@@ -2,26 +2,23 @@
 
 # 👋 Hi, I'm Hariom Hatwate
 
-### Founding Engineer & AI Architect • Full-Stack Engineer • AI Systems Builder
+### Full-Stack Engineer · AI/ML Practitioner · GenAI Builder · Problem Solver
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+AI-powered+products+that+solve+real+problems;Full-Stack+%7C+AI%2FML+%7C+Data+Analytics+%7C+IoT;Turning+ideas+into+scalable%2C+production-ready+systems;Always+learning.+Always+building.+Always+shipping." alt="Typing animation" />
+
+<br>
 
 <a href="https://github.com/Hariom7201">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=760&lines=Building+production-grade+AI+systems;RAG+%7C+Multi-Agent+%7C+LLM+Orchestration;Distributed+Systems+%7C+Cloud+%7C+Performance;Turning+complex+problems+into+scalable+products" alt="Typing animation" />
+<img src="https://img.shields.io/badge/GitHub-Hariom7201-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/hariomhatwate/">
+<img src="https://img.shields.io/badge/LinkedIn-Hariom%20Hatwate-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:hariomhatvate@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail" />
 </a>
 
-<p>
-  <a href="https://github.com/Hariom7201">
-    <img src="https://img.shields.io/badge/GitHub-Hariom7201-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/hariom-hatwate-260813263/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:hariomhatvate@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://hariomportfolio.niat.tech/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Hariom7201&style=for-the-badge&color=0e75b6" alt="Profile views" />
 
@@ -29,169 +26,266 @@
 
 ---
 
-## 🧬 About Me
+## 🧑‍💻 About Me
 
-```text
-I design and ship production AI systems, scalable backends, and developer-focused products.
+```python
+class HariomHatwate:
+    role = "Full-Stack Engineer & AI/ML Practitioner"
 
-Focus:
-├── AI Engineering        → RAG, multi-agent systems, LLM routing, MCP
-├── Backend & Systems     → Go, Node.js, FastAPI, .NET, distributed systems
-├── Frontend               → React, Next.js, TypeScript, SSR/CSR
-├── Cloud & DevOps         → Azure, AWS, GCP, Docker, Kubernetes, CI/CD
-├── Data & Retrieval       → ChromaDB, MongoDB, PostgreSQL, Redis, embeddings
-└── Performance             → API optimization, caching, streaming, FinOps
+    currently = [
+        "Business Technology & Data Analytics @ Springer Capital",
+        "Campus Technology & Community @ Corizo Edutech"
+    ]
+
+    building = [
+        "AI-powered applications",
+        "RAG & Agentic AI systems",
+        "Scalable full-stack products",
+        "Data-driven dashboards",
+        "IoT & industrial automation solutions"
+    ]
+
+    interests = [
+        "Generative AI", "Machine Learning", "Software Engineering",
+        "Data Analytics", "System Design", "IoT"
+    ]
+
+    philosophy = "Learn → Build → Measure → Improve → Ship"
 ```
 
-> **Engineering philosophy:** build systems that are measurable, resilient, observable, and useful—not just demos that work once.
+I'm a **Computer Science Engineering student** focused on turning software, data, and AI into practical products. My experience spans **full-stack development, applied AI/ML, data analytics, IoT, and backend engineering**, with hands-on work across internships, industry workshops, and national hackathons. My current resume highlights production-oriented work with React, Node.js, FastAPI, Python, RAG, Agentic AI, databases, and cloud tooling. 
 
 ---
 
-## ⚡ Engineering Impact
+## ⚡ What I Do
 
-| Area | Impact |
-|---|---:|
-| 👥 Users served | **600K+** |
-| 🤖 Production AI products | **4** |
-| 🧠 Frontier models orchestrated | **24+** |
-| 🌐 LLM providers | **11** |
-| 🧩 Embeddings handled | **10M+** |
-| 🚀 APIs optimized | **150+** |
-| 💰 Cloud spend reduction | **17%** |
-| ⚡ Production latency | **2.1s → <300ms** |
-| 🛡️ Downtime reduction | **90%** |
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI / GenAI
+- RAG Pipelines
+- Agentic AI
+- LangChain
+- Multi-Agent Systems
+- FAISS & Vector Search
+- Text Embeddings
+- LLM Applications
+- Feature Engineering
+
+</td>
+<td width="50%">
+
+### 💻 Full-Stack Engineering
+- React.js
+- Node.js
+- Express.js
+- FastAPI
+- REST APIs
+- JWT Authentication
+- SQL / NoSQL
+- Performance Optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Data & Analytics
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Tableau
+- Excel
+- EDA
+- Data Modeling & Visualization
+
+</td>
+<td width="50%">
+
+### 🌐 IoT & Cloud
+- Arduino
+- C++ Embedded
+- MQTT
+- ThingsBoard
+- AWS
+- Docker
+- Sensor Integration
+- Industrial Automation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 AI / ML Engineering
+## 🛠️ Technology Arsenal
+
+### Languages
 
 <p>
-<img src="https://img.shields.io/badge/RAG-HyDE%20%7C%20RRF%20%7C%20MMR-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM-Multi--Model%20Routing-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Agents-MCP%20%7C%20Orchestration-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Search-Semantic%20%7C%20Hybrid-111827?style=flat-square" />
-<img src="https://img.shields.io/badge/Embeddings-10M%2B-111827?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,html,css" />
 </p>
 
-**Core:** LLMs • RAG Pipelines • HyDE • Reciprocal Rank Fusion • MMR • Semantic Search • Prompt Engineering • Fine-Tuning • Multi-Agent Orchestration • MCP • Vector Databases
+### Frontend & Backend
 
-**Platforms:** AWS Bedrock • Azure AI Foundry • ChromaDB • LangChain
-
----
-
-## 🛠️ Tech Stack
-
-### Languages & Frameworks
 <p>
-<img src="https://skillicons.dev/icons?i=go,python,typescript,javascript,react,nextjs,nodejs,fastapi,dotnet,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind,bootstrap" />
 </p>
 
-### Cloud, DevOps & Infrastructure
+### Databases & Data
+
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,gitlab,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-### Data & Systems
+### AI / ML / Data
+
+`LangChain` · `RAG` · `FAISS` · `PyTorch` · `Text Embeddings` · `Machine Learning` · `Generative AI` · `Agentic AI` · `Pandas` · `NumPy` · `Matplotlib` · `Tableau`
+
+### Cloud / DevOps / Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
 
-**Architecture:** Microservices • Distributed Systems • Event-Driven Architecture • REST APIs • gRPC • WebSockets • SSE Streaming • JWT • OAuth • Rate Limiting
+`REST APIs` · `JWT` · `SQL` · `Advanced DBMS` · `Query Optimization` · `MQTT` · `ThingsBoard` · `Agile` · `SDLC`
 
 ---
 
-## 🚀 Featured Production Systems
+# 🚀 Featured Projects
 
-### 🧠 ARX & Voice AI
-**Production AI Platform · 24+ Models · 11 Providers**
+## 🏛️ National Governance Intelligence Grid — NGIG
 
-- Dual-cloud AI delivery across **Azure AI Foundry + AWS Bedrock**
-- **3-layer hybrid RAG** over **10M+ ChromaDB embeddings**
-- ARX achieved **99% RAG accuracy** and **95% fewer hallucinations**
-- Voice pipeline using **WebSocket + Azure STT + LLM + SSML TTS**
-- Full-duplex voice experience with **sub-200ms latency** across **50+ languages**
-- Adaptive SSE streaming and response-memory caching
+**FastAPI · Python · React.js · PostgreSQL · GenAI · ML**
 
-### 🧩 AskDSA
-**AI-Powered DSA RAG Engine · Go**
+> AI-powered civic-transparency and governance intelligence platform built for **India Innovates 2026**.
 
-- Production **6-step RAG pipeline**
-- HyDE + reciprocal rank fusion + hybrid keyword scoring + MMR reranking
-- **96.6% retrieval accuracy**
-- **91.8% reduction in hallucinations**
-- **10M+ embeddings** with concurrent Go ingestion workers
-- Multi-LLM orchestration with GPT-5.5, Claude Sonnet, and Gemini
+**Highlights**
 
-### ⚔️ Versus
-**Multi-LLM Orchestration & Model Arena**
-
-- Race a prompt across **2–24 frontier models concurrently**
-- Side-by-side streaming with typed SSE events
-- **10M+ tokens benchmarked**
-- Model evaluation time reduced by **80%**
-- 24 concurrent streams rendered at **60fps**
-- Shared RAG context for controlled model comparisons
+- Architected backend infrastructure for a civic-transparency dashboard.
+- Integrated **50+ government datasets** including NITI Aayog, RBI, and Census data.
+- Built high-performance FastAPI APIs with **sub-200ms response times**.
+- Implemented JWT authentication and API consumption tracking.
+- Applied **EDA, statistical modelling, ML-based anomaly detection, and Generative AI**.
+- Designed B2B-ready API patterns for government and enterprise integrations.
 
 ---
 
-## 💼 Experience
+## 🌐 MERN Stack Production Applications
 
-### Founding Engineer & AI Architect — ProPeers
-**Jul 2025 – Present · Remote**
+**MongoDB · Express.js · React.js · Node.js · MySQL**
 
-- Reduced monthly cloud spend by **17%** through VM right-sizing, storage tiering, resource cleanup, and AI token governance.
-- Designed production AI systems including **RoadmapAI, AskAI, CodeLLM, Global AI Search, and an AI code editor**.
-- Built multi-provider LLM routing with resilient fallback strategies and token governance.
-- Built an automated payroll/mentor payout platform that removed **80% of manual finance effort**.
-- Developed adaptive semantic RAG infrastructure with **sub-second inference**.
-- Built **CodeLLM** with ~**40ms inline AI code review**, SSE streaming, and Redis session memory.
-- Reduced monthly downtime by **90%** and deployment cycles by **34%**.
+Built production-oriented full-stack applications featuring:
 
-### Software Development Engineer I — ProPeers
-**Jul 2024 – Jul 2025 · Remote**
-
-- Built learning-roadmap infrastructure used by **120K+ users**.
-- Improved API response time from **2.1s to <300ms**.
-- Optimized **150+ APIs** using caching, async processing, and SSR.
-- Reduced Core Web Vitals from **4.4s to 990ms**.
-- Built automated session-recording infrastructure using Python, Selenium, and Azure VMs.
-- Implemented MongoDB replica sets, automated backups, and Prometheus/Grafana monitoring.
-- Supported zero-downtime releases for **15K+ monthly active users**.
-
-### Junior Software Engineer — Cloud Conduction
-**Jan 2024 – Jun 2024 · Remote**
-
-- Built an AI-powered chat application using React and .NET.
-- Improved frontend efficiency by **60%** and backend performance by **30%**.
-- Reduced AI response latency from **1.86s to 1.2s**.
-- Designed scalable Azure infrastructure with improved throughput.
-- Built secure API gateways supporting **500+ concurrent requests** at **99.9% uptime**.
-- Reduced deployment failures by **75%** through CI/CD automation.
+- Scalable REST architecture
+- JWT authentication
+- Advanced DBMS optimization
+- Query optimization
+- Component-based React UI
+- Responsive web design
+- End-to-end SDLC execution
 
 ---
 
-## 🏆 Recognition & Engineering Track Record
+## 🏭 Smart Factory Industrial Monitoring System
 
-- 🧩 **5,000+ DSA problems solved**
-- 🔥 **1,500+ day coding streak**
-- 🏅 **LeetCode 1,879+ rating**
-- 🌍 **Top 5% worldwide on LeetCode**
-- 🥇 **InterviewBit Global Rank 13**
-- 🥈 **GeeksforGeeks Global Rank 98**
-- 🎓 **Institute Rank 1**
-- 👨‍💻 Mentored **40,000+ engineers**
-- 🌐 Built a tech community of **100K+ developers**
+**Arduino Uno · C++ · MQTT · ThingsBoard · Sensors**
+
+An industrial IoT system designed for real-time monitoring and remote control.
+
+**Architecture**
+
+```text
+Sensors
+   ↓
+Arduino Edge Device
+   ↓
+C++ Embedded Drivers
+   ↓
+MQTT Communication
+   ↓
+ThingsBoard Cloud
+   ↓
+Monitoring + Alerts + Remote Control
+```
+
+Implemented sensor integration using **DHT22, LM35, PIR, and LDR**, real-time bidirectional MQTT communication, cloud monitoring, remote relay control, and threshold-based alerts.
 
 ---
 
-## 📊 GitHub Analytics
+# 💼 Experience
+
+### 🏢 BizTech Intern — Springer Capital
+`July 2026 – Present · Remote`
+
+- Support business and technology initiatives through structured research, data analysis, and project execution.
+- Use Python, Excel, and visualization tools to surface actionable insights.
+- Translate data findings into recommendations for planning and product decisions.
+- Collaborate with multidisciplinary teams across strategy, technology, and operations.
+
+### 🎓 Campus Coordinator — Corizo Edutech
+`July 2026 – Present · Remote`
+
+- Represent Corizo at Aurora Deemed to be University.
+- Coordinate student outreach, industry training programs, and internship initiatives.
+- Develop leadership, community management, and stakeholder communication skills.
+
+### 🌐 IoT Intern — Emertxe Information Technologies
+`March 2026 – April 2026 · Remote`
+
+- Engineered a Smart Factory Industrial Monitoring & Control System.
+- Worked across sensors, embedded C++, MQTT, and ThingsBoard.
+- Designed the complete edge-to-cloud IoT architecture.
+
+### 💻 Full-Stack Development Intern — SaiKet Systems
+`January 2026 – February 2026 · Hyderabad`
+
+- Built web applications with React.js, Node.js, Express.js, JWT, REST APIs, and SQL.
+- Achieved **30% faster page loads** through query optimization and caching.
+- Applied normalization and indexing using MySQL.
+- Delivered features throughout the SDLC in an agile startup environment.
+
+### 📊 Data Labeling Analyst & Data Analytics Simulation — Forage
+`January 2026 – February 2026 · Remote`
+
+- Annotated **500+ messages** for intent, sentiment, and PII.
+- Evaluated edge cases and documented annotation rationales.
+- Built a Tableau dashboard and classified forensic datasets in Excel.
+
+### 🤖 AI Agents 201 & Text Embeddings — NIAT
+`January 2026 – February 2026`
+
+- Worked with Agentic AI and LangChain.
+- Built RAG pipelines and FAISS vector indexes.
+- Applied semantic search and text embeddings to LLM applications.
+
+---
+
+# 🏆 Hackathons & Recognition
+
+<div align="center">
+
+| 🏆 Event | Focus |
+|---|---|
+| 🇮🇳 **India Innovates 2026** | National Governance Intelligence Grid |
+| 🧠 **Convolve 4.0 — Pan-IIT** | AI / ML · IIT Guwahati |
+| 🚀 **NextGen AI Hackathon** | Artificial Intelligence |
+
+</div>
+
+---
+
+# 📈 GitHub Activity
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariom7201&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariom7201&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
 
-<br/>
+<br>
 
 <img src="https://streak-stats.demolab.com?user=Hariom7201&theme=transparent&hide_border=true" />
 
@@ -199,7 +293,7 @@ Focus:
 
 ---
 
-## 🐍 Contribution Activity
+# 🐍 Contribution Animation
 
 <div align="center">
 
@@ -209,51 +303,83 @@ Focus:
 
 ---
 
-## 🌌 3D Contribution Graph
+# 🌌 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hariom7201/Hariom7201/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+<img src="https://raw.githubusercontent.com/Hariom7201/Hariom7201/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" />
 
 </div>
 
 ---
 
-## 🔭 What I'm Building
+# 🎯 Currently Learning & Building
 
-```yaml
-current_focus:
-  - Production-grade RAG systems
-  - Multi-agent AI architectures
-  - Multi-provider LLM routing
-  - Distributed backend systems
-  - AI developer tools
-  - Cloud performance & FinOps
-  - Real-time streaming systems
-
-engineering_principles:
-  - measurable
-  - scalable
-  - observable
-  - secure
-  - cost-aware
-  - developer-friendly
+```text
+┌──────────────────────────────────────────────────────────┐
+│                     CURRENT FOCUS                         │
+├──────────────────────────────────────────────────────────┤
+│ 🤖 Generative AI & Agentic AI                            │
+│ 🔎 RAG + Semantic Search + Vector Retrieval              │
+│ 💻 Production Full-Stack Engineering                    │
+│ 📊 Data Analytics & Business Intelligence               │
+│ 🌐 Cloud & Backend Systems                               │
+│ 🏭 IoT & Industrial Automation                          │
+│ 🧠 DSA + System Design                                  │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🤝 Let's Build Something Interesting
+# 📚 Education
 
-I'm interested in engineering problems around **AI infrastructure, RAG, developer tools, distributed systems, cloud architecture, and intelligent automation**.
+### 🎓 B.Tech — Computer Science Engineering
+**Aurora Deemed to be University, Hyderabad**
 
-<p align="center">
-  <a href="mailto:hariomhatvate@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Connect-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-</p>
+`2025 – 2029 · CGPA: 8.5/10`
+
+**In collaboration with NxtWave Institute of Advanced Technologies (NIAT)**
+
+**Coursework:** DSA · Advanced DBMS · Operating Systems · Computer Networks · Machine Learning · Data Science · OOP
+
+---
+
+# 📜 Certifications & Learning
+
+- **Forage** — Data Labeling & AI Ops
+- **Deloitte Data Analytics Simulation**
+- **AI Agents 201** — Agentic AI & LangChain
+- **NIAT** — Text Embeddings in LLM Systems
+- **India Innovates 2026**
+
+---
+
+# 🌍 Languages
+
+`English — B2 Professional` · `Hindi — C1` · `Marathi — Native` · `German — A2`
+
+---
+
+# 🤝 Let's Connect
+
+I'm open to opportunities and collaborations in:
+
+`Software Engineering` · `Full-Stack Development` · `AI/ML` · `Generative AI` · `Data Analytics` · `IoT`
 
 <div align="center">
 
-### ⚡ Build. Measure. Optimize. Ship.
+<a href="https://www.linkedin.com/in/hariomhatwate/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:hariomhatvate@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+<br><br>
+
+### `⚡ Learn. Build. Solve. Ship. Repeat.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=65&animation=twinkling" />
 
 </div>
