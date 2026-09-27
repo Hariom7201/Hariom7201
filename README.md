@@ -220,17 +220,17 @@ Implemented sensor integration using **DHT22, LM35, PIR, and LDR**, real-time bi
 ### 🏢 BizTech Intern — Springer Capital
 `July 2026 – Sept 2026 · Remote`
 
-- Support business and technology initiatives through structured research, data analysis, and project execution.
-- Use Python, Excel, and visualization tools to surface actionable insights.
-- Translate data findings into recommendations for planning and product decisions.
-- Collaborate with multidisciplinary teams across strategy, technology, and operations.
+- Supported business and technology initiatives through structured research, data analysis, and project execution.
+- Used Python, Excel, and visualization tools to surface actionable insights.
+- Translated data findings into recommendations for planning and product decisions.
+- Collaborated with multidisciplinary teams across strategy, technology, and operations.
 
 ### 🎓 Campus Coordinator — Corizo Edutech
 `July 2026 – Sept 2026 · Remote`
 
-- Represent Corizo at Aurora Deemed to be University.
-- Coordinate student outreach, industry training programs, and internship initiatives.
-- Develop leadership, community management, and stakeholder communication skills.
+- Represented Corizo at Aurora Deemed to be University.
+- Coordinated with student outreach, industry training programs, and internship initiatives.
+- Developed leadership, community management, and stakeholder communication skills.
 
 ### 🌐 IoT Intern — Emertxe Information Technologies
 `March 2026 – April 2026 · Remote`
